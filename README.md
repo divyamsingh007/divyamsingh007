@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://divyamsingh.me/](https://divyamsingh.me/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing]([https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing](https://drive.google.com/file/d/1DRI7Pazv6hDR4FJOb-qop_8GGD-K3DAw/view?usp=sharing))**
+- 📄 Know about my experiences **[[https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing](https://drive.google.com/file/d/1DRI7Pazv6hDR4FJOb-qop_8GGD-K3DAw/view?usp=sharing)]()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
