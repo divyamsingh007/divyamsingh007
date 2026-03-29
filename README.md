@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamsingh007&label=Profile views&color=0e75b6&style=flat" alt="divyamsingh007" /> </p>
 
-- 🔭 I'm currently working on **An in-progress personal blog platform for sharing tech insights and experiences.**
+- 🔭 I'm currently working on **E-Cell Documentations**
 
 - 🌱 I'm currently learning **Linux and strengthening my DSA skills.**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://divyamsingh.me/](https://divyamsingh.me/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing](https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing]([https://drive.google.com/file/d/1iXRMoEicwA17XLsfRAHwGJqmn8PwLUJt/view?usp=sharing](https://drive.google.com/file/d/1DRI7Pazv6hDR4FJOb-qop_8GGD-K3DAw/view?usp=sharing))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
